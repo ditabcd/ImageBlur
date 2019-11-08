@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "974181097091",
+    "firebase_url": "https://imageblur-2e91f.firebaseio.com",
+    "project_id": "imageblur-2e91f",
+    "storage_bucket": "imageblur-2e91f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:974181097091:android:938053b1607174a7c345b6",
+        "android_client_info": {
+          "package_name": "android.jplas.imageblur"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "974181097091-v6nhbondau9kndmnj7oma4mucd6nbn34.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "android.jplas.imageblur",
+            "certificate_hash": "f0e6c94703d6aec590e76f780be6c53b85bb2332"
+          }
+        },
+        {
+          "client_id": "974181097091-4cem8eolnno4qnom8jkketm0c6ctf9pu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2f4MvT6Lgt7N9GbGm2NaD7jb3-_d0o-U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "974181097091-4cem8eolnno4qnom8jkketm0c6ctf9pu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
